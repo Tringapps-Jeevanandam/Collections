@@ -78,7 +78,7 @@ class Stack {
         
     }
 }
-public class stackArray {
+public class StackArray {
     public static final Logger Log = Logger.getLogger("InfoLogging");
 
     public static void main(String[] args) {
