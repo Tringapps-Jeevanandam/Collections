@@ -3,7 +3,7 @@ package com.example;
 import java.util.logging.Logger;
 import java.util.*;
 
-public class arrayList {
+public class ArrayList {
     public static final Logger Log = Logger.getLogger("InfoLogging");
     public static void main(String[] args) {
         ArrayList<Integer> x = new ArrayList<>();
@@ -62,13 +62,6 @@ public class arrayList {
                 default:Log.info("Enter correct choice");
             }
 
-        }
-        
-   
-
-        
-
-      
-        
+        }       
     }
 }
